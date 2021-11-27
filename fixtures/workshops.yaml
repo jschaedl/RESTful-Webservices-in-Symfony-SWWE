@@ -9,6 +9,14 @@ App\Entity\Workshop:
         __construct: [ '795c0e30-4f62-44e7-9227-6c468b6bbecc', 'API development with API Platform', <(new \DateTimeImmutable('2021-12-07'))> ]
     workshop_5:
         __construct: [ 'f416ab5b-c8c9-4137-995b-0fdb6ed97942', 'RESTful Webservices in Symfony', <(new \DateTimeImmutable('2021-06-15'))> ]
+        __calls:
+            - addAttendee: ['@attendee_1']
+            - addAttendee: ['@attendee_2']
+            - addAttendee: ['@attendee_3']
+            - addAttendee: ['@attendee_4']
+            - addAttendee: ['@attendee_5']
+            - addAttendee: ['@attendee_6']
+            - addAttendee: ['@attendee_7']
     workshop_6:
         __construct: [ '4cea4a4f-8630-4dfd-9db8-862866c57541', 'Building modular and interactive applications with Symfony UX', <(new \DateTimeImmutable('2021-12-07'))> ]
     workshop_7:
