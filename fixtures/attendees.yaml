@@ -1,0 +1,15 @@
+App\Entity\Attendee:
+    attendee_1:
+        __construct: [ '02d47053-4034-4818-97d1-299c4cd7168d', 'Ricardo', 'S.', 'ricardo@test.de' ]
+    attendee_2:
+        __construct: [ '6047c255-593f-4fa8-888b-f919fafd904f', 'Jonas', 'G.', 'jonas@test.de' ]
+    attendee_3:
+        __construct: [ '92e06a4b-19ac-4e67-b988-00e7250929c6', 'Cristoforo', 'C.', 'cristoforo@test.de' ]
+    attendee_4:
+        __construct: [ 'c153c6c3-c43b-449d-8f5a-2bfb627f9822', 'Dennis', 'P.', 'dennis@test.de' ]
+    attendee_5:
+        __construct: [ 'f5e2c329-f5b8-4e4b-860d-b5a0189ef35f', 'Py', 'K.', 'py@test.de' ]
+    attendee_6:
+        __construct: [ '0fcb1a10-d2c8-4202-9bc0-840b9683583c', 'Krishna', 'S.', 'krishna@test.de' ]
+    attendee_7:
+        __construct: [ '0eca8ea8-a0e6-44be-9539-44226cb5ccbc', 'Nick', 'S.', 'nick@test.de' ]
