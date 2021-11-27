@@ -1,0 +1,21 @@
+App\Entity\Workshop:
+    workshop_1:
+        __construct: [ 'f91a2edb-d125-4695-90ff-27d4f5154777', 'Symfony 5/6: the fast track', <(new \DateTimeImmutable('2021-12-07'))> ]
+    workshop_2:
+        __construct: [ '8e40a89b-5e9d-4c3f-a0de-f90e1455eeda', 'Mastering OOP & Design Patterns', <(new \DateTimeImmutable('2021-12-07'))> ]
+    workshop_3:
+        __construct: [ '4283a359-3d19-448f-8b21-47b737f6a623', 'Knowing your state machines - Symfony Workflow', <(new \DateTimeImmutable('2021-12-07'))> ]
+    workshop_4:
+        __construct: [ '795c0e30-4f62-44e7-9227-6c468b6bbecc', 'API development with API Platform', <(new \DateTimeImmutable('2021-12-07'))> ]
+    workshop_5:
+        __construct: [ 'f416ab5b-c8c9-4137-995b-0fdb6ed97942', 'RESTful Webservices in Symfony', <(new \DateTimeImmutable('2021-06-15'))> ]
+    workshop_6:
+        __construct: [ '4cea4a4f-8630-4dfd-9db8-862866c57541', 'Building modular and interactive applications with Symfony UX', <(new \DateTimeImmutable('2021-12-07'))> ]
+    workshop_7:
+        __construct: ['81dce324-c9be-4eec-804d-d0e4dcf37d6e', 'Profiling Symfony & PHP apps', <(new \DateTimeImmutable('2021-12-07'))> ]
+    workshop_8:
+        __construct: [ '008f5fc7-6f12-4119-bd6d-9615c84dfbaa', 'Developing headless e-commerce with Sylius and API Platform', <(new \DateTimeImmutable('2021-12-08'))> ]
+    workshop_9:
+        __construct: [ 'ddf13118-c6f5-4bcf-8a7d-85081e4284f4', 'Symfony Security in Depth', <(new \DateTimeImmutable('2021-12-08'))> ]
+    workshop_10:
+        __construct: [ 'f4c91bf4-b309-4aae-b87e-a3098e3a87af', 'Test Driven Development The Right Way', <(new \DateTimeImmutable('2021-12-08'))> ]
